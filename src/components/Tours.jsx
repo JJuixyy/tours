@@ -4,7 +4,7 @@ const Tours = ({tours}) => {
     return (
         <section>
             <div className="title">
-                <h2>Welcome to our tour company</h2>
+                <h2>Welcome to our tour companyyyy</h2>
             </div>
            
             <div>
